@@ -1,0 +1,54 @@
+keys,en
+All,All
+Amount,Amount
+By hand,By hand
+Cancel,Cancel
+Cancelled: ingredients returned.,Cancelled: ingredients returned.
+Collect all,Collect all
+Collected.,Collected.
+Craft,Craft
+Craftable now,Craftable now
+Crafted,Crafted
+Crafting,Crafting
+Makes:,Makes:
+Needs:,Needs:
+No recipe here yet.,No recipe here yet.
+Q / E · LB / RB,Q / E · LB / RB
+Queue,Queue
+Queued,Queued
+Ready:,Ready:
+The output tray is full: collect to keep crafting.,The output tray is full: collect to keep crafting.
+Time:,Time:
+You don't know this recipe yet.,You don't know this recipe yet.
+You lack materials.,You lack materials.
+That did not work.,That did not work.
+Unknown recipe.,Unknown recipe.
+Missing ingredients.,Missing ingredients.
+Not enough room in your bag.,Not enough room in your bag.
+This is made at another station.,This is made at another station.
+The station is busy: its queue is full.,The station is busy: its queue is full.
+Too heavy.,Too heavy.
+Your skill is too low for this recipe.,Your skill is too low for this recipe.
+These items make nothing.,These items make nothing.
+Common,Common
+Fine,Fine
+Superior,Superior
+Masterwork,Masterwork
+Legendary,Legendary
+Quality,Quality
+Any %s,Any %s
+Needs %s level %d,Needs %s level %d
+Shaped: can also be made in a crafting grid.,Shaped: can also be made in a crafting grid.
+Crafts first:,Crafts first:
+Success chance:,Success chance:
+Bonus:,Bonus:
+Quality:,Quality:
+%s · level %d,%s · level %d
+%d failed.,%d failed.
+Best quality: %s.,Best quality: %s.
+Place items in the grid.,Place items in the grid.
+Something new... craft it to learn it.,Something new... craft it to learn it.
+Quality varies.,Quality varies.
+Craft all,Craft all
+Clear,Clear
+Crafting grid,Crafting grid
